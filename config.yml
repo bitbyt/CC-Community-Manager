@@ -1,0 +1,5 @@
+BASE_GPT_MODEL: gpt-3.5-turbo-16k # Model used for chat completion
+SUB_GPT_MODEL: gpt-3.5-turbo
+
+PERSONA: luna # Specify the instruction prompt to use (check 'personas' folder for valid prompts)
+# To add custom prompts, create a .txt file like 'custom.txt' in `personas` folder and set PERSONA as 'custom'
