@@ -28,7 +28,7 @@ python app.py
 
 Ask for advice
 <p align="center">
-  <img src='./public/ask-for-advice.png' width=888>
+  <img src='./public/ask-for-advice-crop.png' width=888>
 </p>
 
 Find an article or video
