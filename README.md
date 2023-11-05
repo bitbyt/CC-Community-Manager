@@ -28,15 +28,15 @@ python app.py
 
 Ask for advice
 <p align="center">
-  <img src='./public/ask-for-advice.png' width=420>
+  <img src='./public/ask-for-advice.png' width=888>
 </p>
 
 Find an article or video
-<p align="center">
+<p>
   <img src='./public/find-article-or-video.png' width=420>
 </p>
 
 Ask for the next event
-<p align="center">
-  <img src='./public/find-next-evetn.png' width=420>
+<p>
+  <img src='./public/find-next-event.png' width=420>
 </p>
